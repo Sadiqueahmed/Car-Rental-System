@@ -11,6 +11,8 @@ Key Features:
 2. Car Management: It includes functionalities for managing car information, such as adding new cars, viewing available cars, and updating car details.
 3. Rental Process: Users can rent cars, return them, and the system tracks the availability of each vehicle.
 4. OOP Concepts: The project is structured to highlight how OOP principles can be applied to build scalable and maintainable software. For instance, different types of cars are managed using class hierarchies, and the rental operations are encapsulated within methods.
+
+   
 Technical Details:
 1. Language: Java
 2. Structure: The project is organized into multiple classes that represent different entities and operations within the car rental system. This modular approach enhances code readability and maintainability.
