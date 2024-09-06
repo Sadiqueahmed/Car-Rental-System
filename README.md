@@ -37,3 +37,11 @@ This repository is particularly useful for students and developers looking to un
 
 
 ![Screenshot 2024-09-03 231813](https://github.com/user-attachments/assets/b097dca2-08f7-487b-8563-ef60a81205d9)
+
+
+ <html>
+     <head> <h3 align="left">Support:</h3></head>
+     <body><p><a href="https://www.buymeacoffee.com/Sadique"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sadique Ahmed" /></a></p><br><br>
+</body>
+   </html>
+
